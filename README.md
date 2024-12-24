@@ -10,6 +10,13 @@
 - One Up On Wall Street: How To Use What You Already Know To Make Money In The Market (Peter Lynch)
 - You Can Be a Stock Market Genius: Uncover the Secret Hiding Places of Stock Market Profits (Joel Greenblatt)
 - Beating the Street (Peter Lynch)
+- Winning the Loser's Game (Charles D. Ellis)
+- A Man for All Markets (Edward O. Thorp)
+- The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution (Gregory Zuckerman)
+- The Quants: How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It (Scott Patterson)
+- My Life as a Quant: Reflections on Physics and Finance (Emanuel Derman)
+- Beat the Dealer: A Winning Strategy for the Game of Twenty-One (Edward O. Thorp)
+- The Wealthy Gardener (Soforic John)
 
 ## biographies
 - Titan: The Life of John D. Rockefeller, Sr. (Ron Chernow)
