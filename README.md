@@ -29,7 +29,13 @@
 - Outsiders - Eight Unconventional CEOs and Their Radically Rational Blueprint for Success
 - The Joys Of Compounding by Gautam Baid
 - Common Stocks and Uncommon Profits
-- The (entire) market wizards book series
+- Unknown Market Wizards: The best traders you’ve never heard of Hardcover (Jack D. Schwager)
+- The New Market Wizards: Conversations with America’s Top Traders (Jack D. Schwager)
+- Hedge Fund Market Wizards: How Winning Traders Win (Jack D. Schwager)
+- Stock Market Wizards: Interviews with America’s Top Stock Traders (Jack D. Schwager)
+- Big Debt Crises (Ray Dalio)
+- The Changing World Order (Ray Dalio)
+
 
 ## biographies
 - Titan: The Life of John D. Rockefeller, Sr. (Ron Chernow)
@@ -40,6 +46,16 @@
 - The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance (Ron Chernow)
 - Andrew Carnegie (David Nasaw, Grover Gardner)
 - Poor Charlie's Almanack - The Wit and Wisdom of Charles T. Munger
+- Alexander Hamilton (Ron Chernow)
+- Einstein: His Life and Universe (Walter Isaacson)
+- Steve Jobs (Walter Isaacson)
+- Elon Musk (Walter Isaacson)
+- Invent and Wander: The Collected Writings of Jeff Bezos (Walter Isaacson)
+
+## entrepreneurship
+- Shoe Dog (Phil Knight)
+- Zero To One (Peter Thiel)
+- Made in America (Sam Walton)
 
 ## misc
 - Thinking, Fast and Slow
@@ -51,3 +67,4 @@
 - Atomic Habits by James Clear
 - Superforecasting: The Art and Science of Prediction
 - How to Win Friends and Influence People
+- Freakonomics: A Rogue Econonomist Explores the Hidden Side of Everything (Stephen J. Dubner, Stephen D. Levitt)
