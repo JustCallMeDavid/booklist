@@ -10,6 +10,7 @@
 - One Up On Wall Street: How To Use What You Already Know To Make Money In The Market (Peter Lynch)
 - You Can Be a Stock Market Genius: Uncover the Secret Hiding Places of Stock Market Profits (Joel Greenblatt)
 - Beating the Street (Peter Lynch)
+- Richer, Wiser, Happier: How the World's Greatest Investors Win in Markets and Life (William Green)
 - The Most Important Thing - Uncommon Sense for the Thoughtful Investor (Howard Marks)
 - Winning the Loser's Game (Charles D. Ellis)
 - Security Analysis (Benjamin Graham, David Dodd)
@@ -50,15 +51,33 @@
 - Steve Jobs (Walter Isaacson)
 - Elon Musk (Walter Isaacson)
 - Invent and Wander: The Collected Writings of Jeff Bezos (Jeff Bezos, Walter Isaacson)
+- On Writing: A Memoir of the Craft (Stephen King)
+- Gandhi: A Memoir (William L. Schirer)
 
 ## Entrepreneurship
 - Shoe Dog (Phil Knight)
 - Zero to One (Peter Thiel)
 - Made in America (Sam Walton)
+- The Everything Store: Jeff Bezos and the Age of Amazon (Brad Stone)
+
+## History
+- Berlin Diary: The Journal of a Foreign Correspondent (William L. Schirer)
+- The Rise and Fall of the Third Reich (William L. Schirer)
+- The Rise and Fall of Adolf Hitler (William L. Schirer)
+- The Sinking of the Bismarck (William L. Schirer)
+- Stalingrad: The Fateful Siege: 1942-1943 (Anthony Beevor)
+- Berlin: The Downfall 1945 (Antyony Beevor)
+- The Second World War (Antony Beevor)
+- Arnhem: The Battle for the Bridges (Antony Beevor)
+- Ardennes 1944: Hitler's Last Gamble (Antony Beevor)
 
 ## Misc
 - Thinking, Fast and Slow (Daniel Kahneman)
+- Guns, Germs and Steel: The Fate of Human Societies (Jared Diamond)
+- Sapiens: A Brief History of Humankind (Yuval Noah Harari)
+- Homo Deus - A Brief History of Tomorrow (Yuval Noah Harari)
 - Man’s Search for Meaning (Viktor E. Frankl)
+- The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams & Reaching Your Destiny (Robin Sharma)
 - Fooled by Randomness (Nassim Nicholas Taleb)
 - Antifragile (Nassim Nicholas Taleb)
 - The Black Swan (Nassim Nicholas Taleb)
