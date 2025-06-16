@@ -1,7 +1,6 @@
 # Booklist
 
 ## Finance
-- Against the Gods (Peter L. Bernstein)
 - The Snowball: Warren Buffett and the Business of Life (Alice Schroeder)
 - Berkshire Hathaway Letters to Shareholders (Warren Buffett, Max Olson)
 - The Little Book That Beats the Market (Joel Greenblatt)
