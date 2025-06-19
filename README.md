@@ -36,10 +36,7 @@
 - Big Debt Crises (Ray Dalio)
 - The Changing World Order (Ray Dalio)
 - Liar's Poker (Michael Lewis)
-- Outliers: The Story of Success (Malcolm Gladwell)
-- The Tipping Point: How Little Things Can Make a Big Difference (Malcolm Gladwell)
-- David and Goliath: Underdogs, Misfits and the Art of Battling Giants (Malcolm Gladwell)
-- In an Uncertain World: Tough Choices from Wall Street to Washington (Robert Rubin)
+
 
 ## Biographies
 - Titan: The Life of John D. Rockefeller, Sr. (Ron Chernow)
@@ -90,4 +87,8 @@
 - Atomic Habits (James Clear)
 - Superforecasting: The Art and Science of Prediction (Philip E. Tetlock, Dan Gardner)
 - Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Stephen J. Dubner, Steven D. Levitt)
+- Outliers: The Story of Success (Malcolm Gladwell)
+- The Tipping Point: How Little Things Can Make a Big Difference (Malcolm Gladwell)
+- David and Goliath: Underdogs, Misfits and the Art of Battling Giants (Malcolm Gladwell)
+- In an Uncertain World: Tough Choices from Wall Street to Washington (Robert Rubin)
 
