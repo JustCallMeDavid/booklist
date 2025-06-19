@@ -63,6 +63,7 @@
 - Zero to One (Peter Thiel)
 - Made in America (Sam Walton)
 - The Everything Store: Jeff Bezos and the Age of Amazon (Brad Stone)
+- Am I Beint too Subtle (Sam Zell)
 
 ## History
 - Berlin Diary: The Journal of a Foreign Correspondent (William L. Schirer)
