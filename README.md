@@ -37,6 +37,7 @@
 - The Changing World Order (Ray Dalio)
 - Liar's Poker (Michael Lewis)
 - More Than You Know: Finding Financial Wisdom in Unconventional Places: Finding Financial Wisdom in Unconventional Places (Michael J. Mauboussin)
+- Mastering The Market Cycle: Getting the odds on your side (Howard Marks)
 
 
 ## Biographies
