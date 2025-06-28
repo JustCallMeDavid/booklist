@@ -83,6 +83,7 @@
 - Man’s Search for Meaning (Viktor E. Frankl)
 - The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams & Reaching Your Destiny (Robin Sharma)
 - Fooled by Randomness (Nassim Nicholas Taleb)
+- Skin in the Game: Hidden Asymmetries in Daily Life (Nassim Nicholas Taleb)
 - Antifragile (Nassim Nicholas Taleb)
 - The Black Swan (Nassim Nicholas Taleb)
 - How to Win Friends and Influence People (Dale Carnegie)
